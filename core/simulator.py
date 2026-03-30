@@ -37,7 +37,8 @@ class Simulator:
                 print(f"{agv.agv_id} moved: {old_node} -> {next_node}")
             else:
                 agv.status = AGVStatus.BLOCKED
-                print(f"{agv.agv_id} blocked at {agv.current_node}, waiting for {next_node}")
+                print(
+                    f"{agv.agv_id} blocked at {agv.current_node}, waiting for {next_node}")
 
         self.print_status()
 
