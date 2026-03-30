@@ -1,0 +1,64 @@
+{
+    "nodes": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H"
+    ],
+    "edges": [
+        {
+            "from": "A",
+            "to": "B",
+            "cost": 1
+        },
+        {
+            "from": "B",
+            "to": "C",
+            "cost": 1
+        },
+        {
+            "from": "C",
+            "to": "D",
+            "cost": 1
+        },
+        {
+            "from": "A",
+            "to": "E",
+            "cost": 1
+        },
+        {
+            "from": "B",
+            "to": "F",
+            "cost": 1
+        },
+        {
+            "from": "C",
+            "to": "G",
+            "cost": 1
+        },
+        {
+            "from": "D",
+            "to": "H",
+            "cost": 1
+        },
+        {
+            "from": "E",
+            "to": "F",
+            "cost": 1
+        },
+        {
+            "from": "F",
+            "to": "G",
+            "cost": 1
+        },
+        {
+            "from": "G",
+            "to": "H",
+            "cost": 1
+        }
+    ]
+}

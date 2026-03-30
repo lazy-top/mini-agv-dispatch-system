@@ -1,6 +1,6 @@
 import heapq
 
-
+# 地图的类型：图（Graph），类似于邻接表表示的图
 class Graph:
     def __init__(self):
         self.adj = {}
