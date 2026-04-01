@@ -6,5 +6,3 @@
   <!-- 下面这行用来展示你的 AGV 棋盘动画 GIF，请替换路径 -->
   <img src="https://via.placeholder.com/800x400.png?text=Here+is+your+AGV+GIF+Animation" alt="AGV 调度演示" width="80%"/>
 </p>
-<!-- 这里展示一个agv运动的动画场景UI -->
-<!-- 地图应该是棋盘类的地图，一格格的地图 -->
